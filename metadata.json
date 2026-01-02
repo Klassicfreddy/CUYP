@@ -1,0 +1,5 @@
+{
+  "name": "CMDA-UCTH Yearly Planner",
+  "description": "A comprehensive yearly activity planner for CMDA-UCTH featuring smart logic for boards, color-coded calendar, and automated reporting powered by Gemini.",
+  "requestFramePermissions": []
+}
